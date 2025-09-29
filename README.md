@@ -23,5 +23,5 @@ Moodlify is an intelligent music recommendation system that detects your facial 
 
 ---
 
-## 📂 Folder Structure
+
 
