@@ -19,10 +19,7 @@ Moodlify is an intelligent music recommendation system that detects your facial 
 
 - Python  
 - OpenCV  
-- Deep Learning (CNN or FER2013-based model)  
-- NumPy, Pandas  
-- Pygame or VLC for audio playback  
-- Pre-trained emotion model (e.g., `fer`, `face-api`, or custom CNN)
+
 
 ---
 
